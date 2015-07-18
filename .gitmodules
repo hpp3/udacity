@@ -1,0 +1,3 @@
+[submodule "ud120-myprojects"]
+	path = ud120-projects
+	url = git@github.com:hpp3/ud120-projects.git
